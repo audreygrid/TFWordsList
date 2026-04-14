@@ -1,4 +1,4 @@
-
+local module = {
     "kulsinskiing",
     "kulsinskis",
     "kult",
@@ -1926,3 +1926,4 @@
     "kzier",
     "kziing",
     "kzis",
+}
