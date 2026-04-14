@@ -1,4 +1,4 @@
-    "l",
+local module = {    "l",
     "la",
     "laa",
     "laaed",
@@ -56506,3 +56506,4 @@
     "lzwdecodering",
     "lzwdecoders",
     "lzwdecodes",
+}
